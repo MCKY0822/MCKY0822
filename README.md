@@ -3,8 +3,7 @@
 - ✊ I’m interested in software development, particularly Python, Django, and building REST APIs.
 - 🌱 I’m currently learning Django Rest Framework (DRF), GitLab, and optimization techniques for web applications.
 - 👀 I’m looking to collaborate on open-source projects.
-- 📫 How to reach me: You can reach me via email at michaelmontana0822@gmail.com
-- 😄 Pronouns: He/Him
+- 📫 You can reach me via email at michaelmontana0822@gmail.com
 - ⚡ Fun fact: I love learning new technologies and applying them to solve real-world problems!
 
 #

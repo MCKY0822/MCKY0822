@@ -1,18 +1,41 @@
-# 🫡 Hi, I’m Michael Montaña
+# About Me
 
-- ✊ I’m interested in software development, particularly Python, Django, and building REST APIs.
-- 🌱 I’m currently learning Django Rest Framework (DRF), GitHub, and optimization techniques for web applications.
-- 👀 I’m looking to collaborate on open-source projects.
-- 📫 You can reach me via email at michaelmontana0822@gmail.com
-- ⚡ Fun fact: I love learning new technologies and applying them to solve real-world problems!
+Hi, I'm Michael Montana, a passionate career shifter and aspiring Full Stack Developer. I graduated with a degree in Computer Science in 2012 and have since gathered diverse experiences in various roles before diving into the world of web development.
 
-#
+## Professional Background
 
-I’ve been learning Python by working through open-source tutorials, watching YouTube guides, and solving real problems from client projects.
-These resources have not only deepened my understanding of Python but have also given me practical insights into problem solving
-and web developement. I'm excited to use what I’ve learned in future work and keep growing as a developer.
+- **Freelance General Virtual Assistant** (2020-Present)  
+  - Virtual assistant for various clients
+  - Invoicing clerk
+  - Staff scheduling management
 
-#
+- **Daewoo Engineering** (2015-2020)  
+  *Security Supervisor*  
+  Led security operations, managed personnel, and ensured the safety of assets.
+
+- **Hyundai Engineering** (2013-2014)  
+  *Document Controller and PC Operator*  
+  Managed engineering documents and assisted in IT operations.
+
+## Currently Learning
+
+I am currently expanding my technical skills, focusing on:
+- **Python**
+- **Django**
+- **REST APIs**
+- **JavaScript**
+
+My goal for the upcoming year is to become a **Full Stack Developer** and contribute to solving real-world problems with technology.
+
+## Looking For
+- **Junior Python Developer roles** where I can grow my skills.
+- Opportunities to collaborate in **open-source projects**, especially related to documentation or development.
+
+## Let's Connect
+Feel free to reach out to me for collaborations or opportunities:
+- **Email:** michaelmontana0822@gmail.com
+
+I’m always eager to learn new technologies and put them to practical use!
 
 <!---
 MCKY0822/MCKY0822 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

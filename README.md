@@ -4,6 +4,12 @@ Hi, I'm Michael Montana, a passionate career shifter and aspiring Full Stack Dev
 
 ## Professional Background
 
+- **Bufufu Analytics** (2024-Present)  
+  *Junior Python Developer*  
+  Assist in developing and maintaining Python applications by writing
+  clean code, participating in code reviews, and collaborating on design
+  and troubleshooting.
+
 - **Freelance General Virtual Assistant** (2020-Present)  
   - Virtual assistant for various clients
   - Invoicing clerk

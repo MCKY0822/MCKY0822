@@ -2,27 +2,6 @@
 
 Hi, I'm Michael Montana, a passionate career shifter and aspiring Full Stack Developer. I graduated with a degree in Computer Science in 2012 and have since gathered diverse experiences in various roles before diving into the world of web development.
 
-## Professional Background
-
-- **Bufufu Analytics** (2024-Present)  
-  *Junior Python Developer*  
-  Assist in developing and maintaining Python applications by writing
-  clean code, participating in code reviews, and collaborating on design
-  and troubleshooting.
-
-- **Freelance General Virtual Assistant** (2020-Present)  
-  - Virtual assistant for various clients
-  - Invoicing clerk
-  - Staff scheduling management
-
-- **Daewoo Engineering** (2015-2020)  
-  *Security Supervisor*  
-  Led security operations, managed personnel, and ensured the safety of assets.
-
-- **Hyundai Engineering** (2013-2014)  
-  *Document Controller and PC Operator*  
-  Managed engineering documents and assisted in IT operations.
-
 ## Currently Learning
 
 I am currently expanding my technical skills, focusing on:

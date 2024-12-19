@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm Michael Montana, a passionate career shifter and aspiring Full Stack Developer. I graduated with a degree in Computer Science in 2012 and have since gathered diverse experiences in various roles before diving into the world of web development.
+Hi, I'm Michael Montaña, a passionate career shifter and aspiring Full Stack Developer. I graduated with a degree in Computer Science in 2012 and have since gathered diverse experiences in various roles before diving into the world of web development.
 
 ## Currently Learning
 
